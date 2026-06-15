@@ -51,7 +51,8 @@ Connect → Link it into a Map of Content
 - 🏷️ **[[Tags]]** — the tag taxonomy (controlled vocabulary)
 - Press `Ctrl/Cmd + O` to jump to any note by name
 - Press `Ctrl/Cmd + Shift + F` to search all content
-- Browse by tag: `#moc`, `#project`, `#area`, `#resource`, `#permanent`, `#literature`
+- Browse by type tag: `#moc`, `#project`, `#area`, `#resource`, `#permanent`, `#literature`
+- Browse by topic tag: `#career`, `#problem-solving`, `#memories`, `#info` (see [[Tags]] for the full hierarchy)
 
 > [!note] Using Dataview?
 > If you install the **Dataview** community plugin, the index notes will auto-populate
