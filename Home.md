@@ -47,6 +47,8 @@ Connect → Link it into a Map of Content
 ```
 
 ## 🔎 Find anything
+- 🗂️ **[[Index]]** — master catalog: browse by type, tag, recency, or find orphans
+- 🏷️ **[[Tags]]** — the tag taxonomy (controlled vocabulary)
 - Press `Ctrl/Cmd + O` to jump to any note by name
 - Press `Ctrl/Cmd + Shift + F` to search all content
 - Browse by tag: `#moc`, `#project`, `#area`, `#resource`, `#permanent`, `#literature`
