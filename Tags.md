@@ -41,14 +41,49 @@ One per note — mirrors the `type:` field.
 | `#waiting` | Blocked on someone/something |
 | `#someday` | Maybe later |
 
-## Topic tags (your subjects — grow this list)
-Add the themes you actually write about. Starters:
-- `#pkm` — personal knowledge management
-- `#productivity`
-- `#programming`
-- `#health`
-- `#finance`
-- `#career`
+## Topic tags (your subjects)
+These are **your** domains. Use **nested tags** (`parent/child`) so they group in the tag pane —
+e.g. tag a note `#career/interview` and it rolls up under `#career`. Add a top-level tag *and*
+the most specific child that fits.
+
+### 💼 `#career`
+| Tag | Use for |
+|-----|---------|
+| `#career/job-search` | Applications, openings, leads |
+| `#career/interview` | Prep, questions, debriefs |
+| `#career/skills` | Skills to build, certifications, learning |
+| `#career/networking` | Contacts, conversations, follow-ups |
+| `#career/goals` | Reviews, milestones, plans |
+
+### 🧩 `#problem-solving`
+| Tag | Use for |
+|-----|---------|
+| `#problem-solving/decision` | Decisions made + the reasoning behind them |
+| `#problem-solving/troubleshooting` | Issues hit and how they were fixed |
+| `#problem-solving/framework` | Mental models & repeatable approaches |
+| `#problem-solving/lessons` | Lessons learned / "next time I'll…" |
+
+### 🧠 `#memories`
+Personal memories & journal (distinct from the agent's `Memory/` folder).
+| Tag | Use for |
+|-----|---------|
+| `#memories/milestone` | Big moments worth remembering |
+| `#memories/people` | Memories tied to a person |
+| `#memories/place` | Trips, events, locations |
+| `#memories/story` | Anecdotes worth retelling |
+
+### ℹ️ `#info`
+General information & reference you want to find again.
+| Tag | Use for |
+|-----|---------|
+| `#info/reference` | Facts, specs, numbers, definitions |
+| `#info/how-to` | Steps & procedures |
+| `#info/contact` | Account details, addresses, key contacts |
+| `#info/note-to-self` | Reminders & personal pointers |
+
+> [!tip] Adding a new domain later
+> Create a new `## ### Heading` here with its child tags first, then use it. Keeping the list
+> here is what stops tag sprawl and keeps the [[Index]] tidy.
 
 ## All tags in use
 ```dataview
