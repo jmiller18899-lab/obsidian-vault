@@ -37,7 +37,9 @@ See `Home.md` for the full loop.
 ## Setup in Obsidian
 1. Install the **Obsidian Git** community plugin and point it at this repo.
 2. Set an auto-commit interval (recommended: 5 minutes).
-3. *(Optional, recommended)* install the **Dataview** and **Calendar** community plugins —
-   the index notes will then auto-populate with live lists.
+3. *(Recommended)* In Settings → Community plugins, turn off Restricted Mode, then
+   **Browse → install Dataview** (and optionally **Calendar**). Dataview is already
+   pre-enabled and configured in `.obsidian/` — once the files download it just works,
+   and all the index tables (Index, Tags, Projects, etc.) render live.
 
 Daily Notes and Templates core plugins are pre-configured in `.obsidian/`.
