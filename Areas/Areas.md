@@ -23,6 +23,6 @@ SORT file.name ASC
 ```
 
 *(No Dataview? List your areas manually below.)*
+- [[Areas/Career|Career]]
 - _[[Health & Fitness]]_
 - _[[Finances]]_
-- _[[Career]]_

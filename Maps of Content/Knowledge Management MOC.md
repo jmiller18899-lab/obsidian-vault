@@ -16,6 +16,7 @@ tags: [moc]
 
 ## Core notes
 - [[Notes/Atomic notes beat long documents]]
+- [[Notes/Define the problem before solving it]]
 
 ## Principles
 - **Capture** without friction → [[Inbox/Inbox|Inbox]] & [[Daily/Daily|Daily notes]]
