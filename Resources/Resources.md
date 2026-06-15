@@ -25,8 +25,8 @@ SORT file.mtime DESC
 *(No Dataview? Group resources by topic below.)*
 
 ### Topics
-- _[[Productivity]]_
-- _[[Programming]]_
+- [[Resources/Quick Reference|Quick Reference]] — general info (`#info`)
+- [[Resources/Memories|Memories]] — moments worth keeping (`#memories`)
 
 ### Reading list
 - [ ] _Book / article to read_
