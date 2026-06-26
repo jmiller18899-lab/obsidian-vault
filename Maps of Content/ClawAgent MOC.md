@@ -31,10 +31,10 @@ tags: [moc, clawagent]
 - **Anti-fabrication** — assert only what the evidence payload contains; unknown field → omit
 - **Verified increments** — ship one stage behind its acceptance test before the next
 
-## 🌱 Concepts to capture (stubs the pipeline references)
-- `[[autoresearch-loop]]` — the hypothesize → execute → measure → keep/discard cycle *(note not yet written)*
-- `[[hot-cache]]` — the read-first working set in `hot.md` *(note not yet written)*
-- `[[betweenness-centrality]]` — graph metric for broker nodes the resolver creates *(note not yet written)*
+## 🌱 Core concepts
+- [[Notes/autoresearch-loop|autoresearch-loop]] — the hypothesize → execute → measure → keep/discard cycle
+- [[Notes/hot-cache|hot-cache]] — the read-first working set in `hot.md`
+- [[Notes/betweenness-centrality|betweenness-centrality]] — graph metric for the broker nodes the resolver creates
 
 ## 🔗 Related
 - [[Maps of Content/Maps of Content|All Maps of Content]] · [[Index]] · [[Tags]]
