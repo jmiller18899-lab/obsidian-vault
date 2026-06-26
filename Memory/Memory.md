@@ -14,6 +14,10 @@ tags: [moc, memory]
 - Persistent facts and context the agent should remember across sessions
 - Summaries the agent generates from the rest of the vault
 
+> [!info] How it's produced
+> Notes here are written by the pipeline in [[Resources/ClawAgent Vault Pipeline Prompts|Vault Pipeline Prompts]].
+> For the whole system, see [[Maps of Content/ClawAgent MOC|ClawAgent MOC]].
+
 ## Stored memory
 
 ```dataview

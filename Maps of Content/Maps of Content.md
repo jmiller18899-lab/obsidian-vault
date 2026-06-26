@@ -25,7 +25,8 @@ SORT file.name ASC
 ```
 
 *(No Dataview? List your MOCs manually below.)*
-- _[[Example Topic MOC]]_
+- [[Maps of Content/ClawAgent MOC|ClawAgent MOC]] — the agent system
+- [[Maps of Content/Knowledge Management MOC|Knowledge Management MOC]] — PKM & note-taking
 
 ## Top-level entry points
 - 🧠 **[[Home]]** — the master dashboard

@@ -81,6 +81,15 @@ General information & reference you want to find again.
 | `#info/contact` | Account details, addresses, key contacts |
 | `#info/note-to-self` | Reminders & personal pointers |
 
+### 🤖 `#clawagent`
+The agent system — see [[Maps of Content/ClawAgent MOC|ClawAgent MOC]].
+| Tag | Use for |
+|-----|---------|
+| `#clawagent/pipeline` | The writer pipeline that produces vault notes |
+| `#clawagent/prompts` | Prompt constants & specs |
+| `#clawagent/memory` | The agent's working-memory folder |
+| `#clawagent/autoresearch` | Self-improve loop cycles & results |
+
 > [!tip] Adding a new domain later
 > Create a new `## ### Heading` here with its child tags first, then use it. Keeping the list
 > here is what stops tag sprawl and keeps the [[Index]] tidy.

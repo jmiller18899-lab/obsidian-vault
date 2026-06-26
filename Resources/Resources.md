@@ -25,6 +25,7 @@ SORT file.mtime DESC
 *(No Dataview? Group resources by topic below.)*
 
 ### Topics
+- [[Resources/ClawAgent Vault Pipeline Prompts|ClawAgent Vault Pipeline Prompts]] — agent writer prompts (`#clawagent`)
 - [[Resources/Quick Reference|Quick Reference]] — general info (`#info`)
 - [[Resources/Memories|Memories]] — moments worth keeping (`#memories`)
 
