@@ -1,5 +1,6 @@
 ---
 title: "{{title}} MOC"
+id: ""
 type: moc
 created: "{{date}}"
 tags: [moc]

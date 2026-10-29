@@ -1,5 +1,6 @@
 ---
 title: Set up my second brain
+id: "30.01"
 type: project
 status: active
 created: "2026-06-15"

@@ -1,5 +1,6 @@
 ---
 title: ClawAgent Vault Pipeline Prompts
+id: "50.01"
 type: resource
 topic: clawagent
 created: "2026-06-26"

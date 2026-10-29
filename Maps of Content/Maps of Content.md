@@ -1,5 +1,6 @@
 ---
 title: Maps of Content
+id: "70.00"
 type: moc
 tags: [moc, index]
 ---

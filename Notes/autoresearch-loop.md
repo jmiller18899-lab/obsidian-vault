@@ -1,5 +1,6 @@
 ---
 title: autoresearch-loop
+id: "60.03"
 type: permanent
 topic: clawagent
 created: "2026-06-26"

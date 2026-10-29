@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+id: ""
 type: permanent
 created: "{{date}}"
 tags: [permanent]

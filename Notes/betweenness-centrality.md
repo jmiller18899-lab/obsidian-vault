@@ -1,5 +1,6 @@
 ---
 title: betweenness-centrality
+id: "60.04"
 type: permanent
 topic: clawagent
 created: "2026-06-26"

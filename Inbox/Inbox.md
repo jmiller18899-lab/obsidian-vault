@@ -1,5 +1,6 @@
 ---
 title: Inbox
+id: "10.00"
 type: index
 tags: [moc, inbox]
 ---

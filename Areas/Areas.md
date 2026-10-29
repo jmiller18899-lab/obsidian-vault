@@ -1,5 +1,6 @@
 ---
 title: Areas
+id: "40.00"
 type: index
 tags: [moc, areas]
 ---

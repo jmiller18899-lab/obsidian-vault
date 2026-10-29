@@ -3,7 +3,8 @@
 A personal knowledge base built for **quick capture** and **easy organization**.
 Synced via Obsidian Git — accessed by ClawAgent.
 
-👉 **Open [`Home.md`](Home.md) in Obsidian to start.**
+👉 **Open [`Home.md`](Home.md) in Obsidian to start.** Every note has a numbered ID (e.g. `60.03`);
+the full catalog is in [`Index.md`](Index.md).
 
 ## The system at a glance
 This vault combines three proven methods:

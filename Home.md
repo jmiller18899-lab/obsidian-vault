@@ -1,5 +1,6 @@
 ---
 title: Home
+id: "00.01"
 type: dashboard
 tags: [moc, home]
 cssclasses: [dashboard]
@@ -47,7 +48,8 @@ Connect → Link it into a Map of Content
 ```
 
 ## 🔎 Find anything
-- 🗂️ **[[Index]]** — master catalog: browse by type, tag, recency, or find orphans
+- 🗂️ **[[Index]]** — numbered catalog of every note, plus "Where do I find…?" and "Where does new stuff go?"
+- 🔢 Every note has an ID (`00`–`90` = section, e.g. `60.03`): search the number to jump straight to it
 - 🏷️ **[[Tags]]** — the tag taxonomy (controlled vocabulary)
 - Press `Ctrl/Cmd + O` to jump to any note by name
 - Press `Ctrl/Cmd + Shift + F` to search all content

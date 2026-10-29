@@ -1,5 +1,6 @@
 ---
 title: Atomic notes beat long documents
+id: "60.01"
 type: permanent
 created: "2026-06-15"
 tags: [permanent, pkm]

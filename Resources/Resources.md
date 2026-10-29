@@ -1,5 +1,6 @@
 ---
 title: Resources
+id: "50.00"
 type: index
 tags: [moc, resources]
 ---

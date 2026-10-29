@@ -1,5 +1,6 @@
 ---
 title: Daily
+id: "20.00"
 type: index
 tags: [moc, daily]
 ---

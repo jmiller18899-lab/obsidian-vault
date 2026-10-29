@@ -1,5 +1,6 @@
 ---
 title: ClawAgent MOC
+id: "70.01"
 type: moc
 topic: clawagent
 created: "2026-06-26"

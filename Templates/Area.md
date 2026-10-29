@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+id: ""
 type: area
 created: "{{date}}"
 tags: [area]

@@ -1,5 +1,6 @@
 ---
 title: Tags
+id: "00.03"
 type: index
 tags: [moc, index, meta]
 ---

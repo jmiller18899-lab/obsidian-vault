@@ -1,5 +1,6 @@
 ---
 title: Define the problem before solving it
+id: "60.02"
 type: permanent
 created: "2026-06-15"
 tags: [permanent, problem-solving/framework]

@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+id: ""
 type: meeting
 date: "{{date}}"
 attendees: 

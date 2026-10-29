@@ -1,5 +1,6 @@
 ---
 title: hot-cache
+id: "60.05"
 type: permanent
 topic: clawagent
 created: "2026-06-26"

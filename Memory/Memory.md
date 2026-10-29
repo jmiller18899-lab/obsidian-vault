@@ -1,5 +1,6 @@
 ---
 title: Memory
+id: "80.00"
 type: index
 tags: [moc, memory]
 ---

@@ -1,5 +1,6 @@
 ---
 title: Memories
+id: "50.02"
 type: resource
 topic: memories
 created: "2026-06-15"

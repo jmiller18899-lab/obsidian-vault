@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+id: ""
 type: person
 created: "{{date}}"
 tags: [person]

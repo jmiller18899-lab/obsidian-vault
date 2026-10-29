@@ -1,5 +1,6 @@
 ---
 title: Knowledge Management MOC
+id: "70.02"
 type: moc
 created: "2026-06-15"
 tags: [moc]

@@ -1,5 +1,6 @@
 ---
 title: Notes
+id: "60.00"
 type: index
 tags: [moc, zettelkasten]
 ---

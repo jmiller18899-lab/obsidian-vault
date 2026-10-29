@@ -1,5 +1,6 @@
 ---
 title: Career
+id: "40.01"
 type: area
 created: "2026-06-15"
 tags: [area, career]

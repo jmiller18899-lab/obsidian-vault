@@ -1,5 +1,6 @@
 ---
 title: Projects
+id: "30.00"
 type: index
 tags: [moc, projects]
 ---
