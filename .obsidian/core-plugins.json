@@ -14,5 +14,20 @@
   "outline": true,
   "word-count": true,
   "starred": true,
-  "file-recovery": true
+  "file-recovery": true,
+  "canvas": true,
+  "footnotes": false,
+  "properties": true,
+  "slash-command": false,
+  "editor-status": true,
+  "bookmarks": true,
+  "zk-prefixer": false,
+  "random-note": false,
+  "slides": false,
+  "audio-recorder": false,
+  "workspaces": true,
+  "publish": false,
+  "sync": true,
+  "bases": true,
+  "webviewer": false
 }
