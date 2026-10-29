@@ -24,7 +24,7 @@ SORT deadline ASC
 ```
 
 *(No Dataview? List active projects manually below.)*
-- _[[Example Project]]_
+- [[Set up my second brain]]
 
 ## Done / archived
 See **[[Archive/Archive|Archive]]**.
